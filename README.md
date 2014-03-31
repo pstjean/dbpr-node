@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/pstjean/dbpr-node.svg?branch=master)](https://travis-ci.org/pstjean/dbpr-node)
+
 dbpr-node
 =========
 
